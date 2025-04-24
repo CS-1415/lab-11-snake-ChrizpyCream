@@ -1,0 +1,12 @@
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\bin\Debug\net8.0\Lab11.deps.json
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\bin\Debug\net8.0\Lab11.dll
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\bin\Debug\net8.0\Lab11.pdb
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\obj\Debug\net8.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\obj\Debug\net8.0\Lab11.AssemblyInfoInputs.cache
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\obj\Debug\net8.0\Lab11.AssemblyInfo.cs
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\obj\Debug\net8.0\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\obj\Debug\net8.0\Lab11.sourcelink.json
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\obj\Debug\net8.0\Lab11.dll
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\obj\Debug\net8.0\refint\Lab11.dll
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\obj\Debug\net8.0\Lab11.pdb
+C:\Users\xxlaz\cs1410\lab-11-snake-ChrizpyCream\Lab11\obj\Debug\net8.0\ref\Lab11.dll
